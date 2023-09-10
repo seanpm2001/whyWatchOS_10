@@ -1,0 +1,1 @@
+🍏️⌚️💾️ The official source repository/separate repository for the archival and development of whyWatchOS 10, an open source remake of watchOS 10. Written in C, and part of the WacOS operating system project.
